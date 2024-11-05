@@ -35,4 +35,9 @@
  */
 dependencies {
     runtimeOnlyNonPublishable("com.github.GTNewHorizons:NotEnoughItems:2.6.34-GTNH:dev")
+
+//     shadowImplementation('com.github.makamys:MCLib:0.3.7.6') {
+//         exclude group: "codechicken"
+//     }
+// uncomment to use MCLib
 }

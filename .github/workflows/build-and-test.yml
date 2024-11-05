@@ -11,6 +11,6 @@ jobs:
   build-and-test:
     uses: Roadhog360/Hog-Actions-Workflows/.github/workflows/build-and-test.yml@master
     secrets: inherit
-    # Uncomment for client-only mods
     # with:
     #   client-only: true
+    # Uncomment for client-only mods
