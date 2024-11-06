@@ -1,4 +1,4 @@
-package roadhog360.mymodid;
+package roadhog360.mymodid.proxy;
 
 public class ClientProxy extends CommonProxy {
 
