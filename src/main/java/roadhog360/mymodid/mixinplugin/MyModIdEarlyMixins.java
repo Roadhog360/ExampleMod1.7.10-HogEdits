@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-public class SimpleSkinBackportEarlyMixins implements IFMLLoadingPlugin, IEarlyMixinLoader {
+public class MyModIdEarlyMixins implements IFMLLoadingPlugin, IEarlyMixinLoader {
 
     public static final MixinEnvironment.Side SIDE = MixinEnvironment.getCurrentEnvironment().getSide();
 
